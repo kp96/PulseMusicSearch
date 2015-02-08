@@ -27,7 +27,7 @@ import java.io.IOException;
 import java.util.Vector;
 
 public class MainActivity extends Activity {
-	String url = "http://emp3world.so/search/";
+	String url = "";//your music search url here
 	String query = new String();
 	ProgressDialog pgd;
 	TextView requestAnother,tv,downloadSize,tvReference,tvListen;
@@ -67,7 +67,7 @@ public class MainActivity extends Activity {
 				titles = new Vector<String>();
 				urls = new Vector<String>();
 				sizes = new Vector<String>();
-				query = search.getText().toString() + " mp3 download.html";
+				query = search.getText().toString() + " mp3 download.html";//replace with custom url
 				query = query.replaceAll(" ", "_");
 				query = url + query;
 				new GetSong().execute();
