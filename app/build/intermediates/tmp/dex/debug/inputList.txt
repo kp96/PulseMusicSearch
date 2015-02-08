@@ -1,0 +1,6 @@
+C:\Users\kp\AndroidStudioProjects\IEEEAndroid\app\build\intermediates\classes\debug
+C:\Users\kp\AndroidStudioProjects\IEEEAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-5493350963614336e1e3c24e34f98f6b029bca6b.jar
+C:\Users\kp\AndroidStudioProjects\IEEEAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-88d7a7efe9683f75c3ab2f6c2d52dc5c8388cdce.jar
+C:\Users\kp\AndroidStudioProjects\IEEEAndroid\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-6d75cf819f60ad6e2648dc3d60231c7ff05ca6f6.jar
+C:\Users\kp\AndroidStudioProjects\IEEEAndroid\app\build\intermediates\pre-dexed\debug\classes-9b77d7af8932ef18fe531631dc0d61047316d23b.jar
+C:\Users\kp\AndroidStudioProjects\IEEEAndroid\app\build\intermediates\pre-dexed\debug\classes-b9bdb6a4d982a454a1cc24767dd79cea55953f4c.jar

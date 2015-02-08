@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Pulse Mp3 Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome_to_simple_mp3_downloader">Welcome to Simple Music Downloader</string>
+	<string name = "searchTipsHeader">Help</string>
+	<string name = "searchTips">Enter song name in the box below and press search. Move through the links
+	    by pressing next, until you find a valid link.</string>
+</resources>
